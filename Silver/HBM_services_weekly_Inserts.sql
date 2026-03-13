@@ -1,7 +1,7 @@
 /*
 ==============================================
 Title: Inserting Services Weekly into Silver
-Purpose: To move the services weekly table from the bronze phase into the siler
+Purpose: To move the services weekly table from the bronze phase into the silver
 phase after clearance from data quality checks
 ==============================================
 */
