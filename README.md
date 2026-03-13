@@ -1,8 +1,8 @@
-# SQL-Data-Analysis-Hospital-Bed-Management
+* SQL-Data-Analysis-Hospital-Bed-Management
 
-## This dataset is provided by Kaggle at the link: https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data
+** This dataset is provided by Kaggle at the link: https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data
 
-# Purpose- Mirrors the 'Ask' Phase:
+* Purpose- Mirrors the 'Ask' Phase:
 -- To observe all stages of the analysis process, explore and analyze hospital data in replica of a real life scenario. Some questions these dataset can be reasoned with (along with the 5 whys which may or may not fell tangibly  beyond the dataset) include:
 -- What is the most common age-group in the hospital? What service do they usually seek?
 -- For the average duration of stay for patients, what is their satisfaction scores
@@ -13,10 +13,10 @@
 -- Where service differential may exist between patients requests (perceived to be service rendered) and patient's refusals ( perceived to be service not rendered), what does the data reflect across departments next to patient satisfaction scores and staff morale scores.
 
 
-# Prepare Phase
-## Patients table: This dataset is patients centered, hence, the name. It tracks patients individual journeys, 
- clinical service and satisfaction
-## Schema:
+* Prepare Phase
+** Patients table: This dataset is patients centered, hence, the name. It tracks patients individual journeys, 
+ clinical service and satisfaction **
+** Schema **:
 
 age
 age-group (new Column)
@@ -26,8 +26,8 @@ duration_of_stay (new column)
 service
 satisfaction 
 
-# Staff Attendance: This dataset is staff-cenntered on the basis of staff attendance days across departments
-## Schema:
+* Staff Attendance: This dataset is staff-cenntered on the basis of staff attendance days across departments
+** Schema **:
 
 staff_id
 staff_name
@@ -35,9 +35,9 @@ role
 service
 attendance
 
-# Services Weekly: This dataset is inclusive of hospital , patient, staff, and department activity. This
-includes bed availability, patient requests, staff morale and others:
-## Schema:
+* Services Weekly: This dataset is inclusive of hospital , patient, staff, and department activity. This
+includes bed availability, patient requests, staff morale and others:*
+** Schema **:
 
 week
 month
