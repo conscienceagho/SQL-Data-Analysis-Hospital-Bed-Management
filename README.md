@@ -1,19 +1,5 @@
 
 
-#: Largest and enboldened (the hash character must be followed by a space)
----
-##: Next largest and emboldened (the hash character must be followed by a space)
----
---- : Creates space
----
-** ... ** : Bullet points hyphenated in markdown (* characters do not need a space)
----
-* ... * : Italics (* characters do not need a space)
- ---
-
-
-
-
 ## SQL-Data-Analysis-Hospital-Bed-Management
 
 #### This dataset is provided by Kaggle at the link: 
@@ -91,4 +77,43 @@ includes bed availability, patient requests, staff morale and others:*
 # Analyse
 
 # Share/ACt Phase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- `Markdown notes`
+
+- `#: Largest and enboldened (the hash character must be followed by a space)`
+--- 
+- `##: Next largest and emboldened (the hash character must be followed by a space)`
+---
+- `--- : Creates space`
+---
+- `** ... ** : Bullet points hyphenated in markdown (* characters do not need a space)`
+---
+- `* ... * : Italics (* characters do not need a space)`
+ ---
+
 
