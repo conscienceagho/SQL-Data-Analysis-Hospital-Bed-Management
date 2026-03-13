@@ -1,10 +1,10 @@
 /*
 ---------------------------------------------------------------------
 Purpose: 
-To Check and clean the data, remove nulls, perform uniformization, create any 
+To Check and clean HBM data, remove nulls, perform uniformization, create any 
 calculated columns as needed, remove duplicates, assess timelines and correct as necessary,
 remove excess spaces.
-The ideal would be to always check in with support and stakeholder with changes. 
+The ideal would be to always check in with support and stakeholder with necessary changes and question
 The intention is to give a snapshot of the data results for readable flow and coherence.
 ---------------------------------------------------------------------
 */
