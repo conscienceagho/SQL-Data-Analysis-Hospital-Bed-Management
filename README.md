@@ -38,7 +38,7 @@ The dataset was evaluated using the ROCCC framework:
 
 ## Prepare Phase
 
-## Patients table: This dataset is patients centered. Data tracks patients individual journeys, 
+## Patients table: This table is patients centered. Data tracks patients individual journeys, 
  clinical service and satisfaction 
  
 ### Schema:
@@ -51,16 +51,24 @@ The dataset was evaluated using the ROCCC framework:
 - `service`
 - `satisfaction`
 
-## Staff Attendance: This dataset is staff-cenntered on the basis of staff attendance days across departments
+## Staff Schedule: This table is staff-centered on the basis of staff attendance days across departments
 ### Schema:
 
+- `week`
 - `staff_id`
 - `staff_name`
 - `role`
 - `service`
 - `attendance`
 
-## Services Weekly: This dataset is inclusive of hospital , patient, staff, and department activity. This
+## Updated Staff Table: Also staff table, this table is mildly altered for comprehensiveness from the *staff table* to include a retraced list of prior missing staff and uniform ids. The table is unique as a *staff registry* as opposed to a functional attendance registry as above
+
+- `staff_id`
+- `staff_name`
+- `role`
+- `service`
+
+## Services Weekly: This table is inclusive of hospital , patient, staff, and department activity. This
 includes bed availability, patient requests, staff morale and others:*
 ### Schema:
 
@@ -75,9 +83,7 @@ includes bed availability, patient requests, staff morale and others:*
 - `staff_morale`
 - `event`
 
-# Analyse
 
-# Share/ACt Phase
 
 
 
