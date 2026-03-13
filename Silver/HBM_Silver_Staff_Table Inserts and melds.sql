@@ -243,7 +243,9 @@ INSERT INTO Silver_H.staff
 --------------------------------------------
 -- making a new staff_table with pending updates from 
 -- the stakeholder about the ideal staff_id between both tables.
--- For now, the staff table is updated
+-- For now, the staff table is updated. 
+-- To clarify The H.staffplus table is temporary, the H. updated_staff replaces the staff table
+--  -- and the H.staff_schedule table stays the same
 --------------------------------------------
 SELECT staff_id, staff_name, role, service
 INTO Silver_H.updated_staff
@@ -271,7 +273,7 @@ ON u.staff_name = sc.staff_name
 
 /*
 ==============================
-Data Quality Checks
+Passed Data Quality Checks
 ==============================
 */
 -- Count of staff names in original tables
