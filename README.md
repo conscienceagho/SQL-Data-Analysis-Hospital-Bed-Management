@@ -4,7 +4,8 @@
 
 #### This dataset is provided by Kaggle at the link: 
 ---
-https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data. DOI citation: https://doi.org/10.34740/kaggle/ds/8395374
+https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data. 
+DOI citation: https://doi.org/10.34740/kaggle/ds/8395374
 ---
 #### License: https://creativecommons.org/publicdomain/zero/1.0/
 
