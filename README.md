@@ -14,11 +14,11 @@
 ## ROCCC Data Validation
 The dataset was evaluated using the ROCCC framework:
 
-- ** Reliable **: Provided by a reliable platform with specifications of synthesis along with consistent structure and documentation  
-- ** Original **: Primary source data published directly on kaggle
-- ** Comprehensive **: Includes detailed information about a hospital case scenario to mirror real life settings
-- ** Current **: Last Updated 5 months ago at time of analysis
-- ** Cited **: Data source and license are clearly documented
+- **Reliable**: Provided by a reliable platform with specifications of synthesis along with consistent structure and documentation  
+- **Original**: Primary source data published directly on kaggle
+- **Comprehensive**: Includes detailed information about a hospital case scenario to mirror real life settings
+- **Current**: Last Updated 5 months ago at time of analysis
+- **Cited**: Data source and license are clearly documented
 
 ---
 
