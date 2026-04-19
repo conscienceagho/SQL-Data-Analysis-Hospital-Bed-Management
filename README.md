@@ -4,8 +4,8 @@
 
 #### This dataset is provided by Kaggle at the link: 
 ---
-https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data. 
-DOI citation: https://doi.org/10.34740/kaggle/ds/8395374
+##### https://www.kaggle.com/datasets/jaderz/hospital-beds-management/data 
+##### DOI citation: https://doi.org/10.34740/kaggle/ds/8395374
 ---
 #### License: https://creativecommons.org/publicdomain/zero/1.0/
 
@@ -14,11 +14,11 @@ DOI citation: https://doi.org/10.34740/kaggle/ds/8395374
 ## ROCCC Data Validation
 The dataset was evaluated using the ROCCC framework:
 
-- **Reliable**: Provided by a reliable platform with specifications of synthesis along with consistent structure and documentation  
-- **Original**: Primary source data published directly on kaggle
-- **Comprehensive**: Includes detailed information about a hospital case scenario to mirror real life settings
-- **Current**: Last Updated 5 months ago at time of analysis
-- **Cited**: Data source and license are clearly documented
+- ** Reliable **: Provided by a reliable platform with specifications of synthesis along with consistent structure and documentation  
+- ** Original **: Primary source data published directly on kaggle
+- ** Comprehensive **: Includes detailed information about a hospital case scenario to mirror real life settings
+- ** Current **: Last Updated 5 months ago at time of analysis
+- ** Cited **: Data source and license are clearly documented
 
 ---
 
@@ -26,20 +26,19 @@ The dataset was evaluated using the ROCCC framework:
 
 **The 'Ask' Phase: key questions**
 
-- To observe all stages of the analysis process, explore and analyze hospital data in replica of a real life scenario. Some questions these dataset can be reasoned with (along with the 5 whys which may or may not fell tangibly  beyond the dataset) include:
+To observe all stages of the analysis process, explore and analyze hospital data in replica of a real life scenario. Some questions these dataset can be reasoned with (along with the 5 whys which may or may not fell tangibly beyond the dataset) include:
 - What is the most common age-group in the hospital? What service do they usually seek?
-- For the average duration of stay for patients, what is their satisfaction scores
-- Are they enough beds more than the average number of beds in the hospital
-- Is staff morale, buy score,  directly affected by patient satisfaction score, present or absent resources versus an external factor
+- For the average duration of stay for patients, what is their satisfaction scores?
+- Are they enough beds more than the average number of beds in the hospital?
+- Is staff morale, by score, directly affected by patient satisfaction score, present or absent resources versus an external factor
 - Is staff attendance regular or is it more in one department more than the other?
-- Of the three "events" in this dataset *none*, *donation*, and *flu*, are there any peculiarities across departments and/or over time
+- Of the three "events" in this dataset *none*, *donation*, and *flu*, are there any peculiarities across departments and/or over time?
 - Where service differential may exist between patients requests (perceived to be service rendered) and patient's refusals ( perceived to be service not rendered), what does the data reflect across departments next to patient satisfaction scores and staff morale scores.
 
 
 ## Prepare Phase
 
-## Patients table: This table is patients centered. Data tracks patients individual journeys, 
- clinical service and satisfaction 
+## Patients table: This table is patients centered. Data tracks patients individual journeys, clinical service and satisfaction 
  
 ### Schema:
 
